@@ -1,6 +1,9 @@
- ## Doktorsjouren theme
+
+
+
+> ## Doktorsjouren theme
 ## colors
-|  color | hex  | opacity | usage|
+|  color | hex  | opacity | usage |
 |--|--|--|--|
 | dark-grey| #1f2532 |||
 | charcoal-grey | #424243 |||
@@ -52,6 +55,11 @@
  - screen-sm - 768px
  - screen-md - 992px
  - screen-lg - 1200px
+  
+## Form
+  - form input-height-base: 36px
+  - form input-color: #4a4a4a (label-color)
+  - form input-border: #cdd2d6
  
 ## Images
 -  User profile images  - min-size  120x68
