@@ -1,7 +1,6 @@
-
-> ## Doktorsjouren theme
+ ## Doktorsjouren theme
 ## colors
-|  color | hex  | opacity ||
+|  color | hex  | opacity | usage |
 |--|--|--|--|
 | dark-grey| #1f2532 |||
 | charcoal-grey | #424243 |||
@@ -61,4 +60,4 @@
 |commands|  |
 |--|--|
 | gulp watch | compiles everything and watches for changes |
-| npm run icons | generates `_icon-font.scss` from SVG images in `doctors/images/`
+| npm run icons | generates `_icon-font.scss` from SVG images in `doctors/images/` |
