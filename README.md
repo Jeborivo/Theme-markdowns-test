@@ -1,6 +1,6 @@
  ## Doktorsjouren theme
 ## colors
-|  color | hex  | opacity | usage |
+|  color | hex  | opacity | usage qqq|
 |--|--|--|--|
 | dark-grey| #1f2532 |||
 | charcoal-grey | #424243 |||
